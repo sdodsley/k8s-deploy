@@ -1,0 +1,1 @@
+https://xx.xx.xx.x:6443/api/v1/namespaces/kube-system/services/https:kubernetes-dashboard:/proxy/#!/node?namespace=default
